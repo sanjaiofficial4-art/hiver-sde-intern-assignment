@@ -1,0 +1,42 @@
+[
+  {
+    "text": "@146956 @115858 #iOS app shows different fonts. Pls fix it and thank me for the suggestions :) https://t.co/1pl6fpyfNs",
+    "error": "HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /review (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x79a9635da120>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+  },
+  {
+    "text": "@AppleSupport I Thik there is something problem in update version of iOS because when I m using my iPhone with Bluetooth headset it is heating will I need to visit Care centre...",
+    "error": "HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /review (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x79a9636842d0>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+  },
+  {
+    "text": "@AppleSupport No Issues ...the malfunctioning phone got replaced with the new one .. I Love apple support :)",
+    "error": "HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /review (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x79a963684b90>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+  },
+  {
+    "text": "@AppleSupport 11.0.3 yaz\u0131l\u0131m g\u00fcncellemesinden sonra \u015farj\u0131m \u00e7ok \u00e7abuk bitmeye ba\u015flad\u0131. Bir \u00e7\u00f6z\u00fcm bulacak m\u0131s\u0131n\u0131z ?",
+    "error": "HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /review (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x79a963681480>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+  },
+  {
+    "text": "@AppleSupport fun idea: making it where my phone doesn\u2019t crash or freeze every 2 seconds and force a hard reset.",
+    "error": "HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /review (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x79a963681cd0>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+  },
+  {
+    "text": "@AppleSupport my phone keeps shutting off amd i just bought my new iphone 7plus.",
+    "error": "HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /review (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x79a96362e570>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+  },
+  {
+    "text": "@AppleSupport Couldn't be updated so needs to be restored but just as it's finished extracting software it says it can't be done",
+    "error": "HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /review (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x79a963671260>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+  },
+  {
+    "text": "@115858 @AppleSupport why is it, every-single-update released is worse than the previous one?  Phone's crashed 3x since latest update. #FAIL",
+    "error": "HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /review (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x79a9636708d0>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+  },
+  {
+    "text": "WHAT IS WRONG WITH MY PHONE HELPPPP @AppleSupport",
+    "error": "HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /review (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x79a9636709e0>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+  },
+  {
+    "text": "@AppleSupport Desde que atualizei meu celular ele est\u00e1 muito lento. E n\u00e3o sou s\u00f3 eu que reclamo disso. Consertem isso por favor.",
+    "error": "HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /review (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x79a9636706b0>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+  }
+]

@@ -1,0 +1,6 @@
+{
+  "rows": 200,
+  "intent_accuracy": 0.8333333333333334,
+  "intent_macro_f1": 0.22727272727272727,
+  "human_intent_kappa": null
+}
